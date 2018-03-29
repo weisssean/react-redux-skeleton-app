@@ -14,7 +14,7 @@
 
 ## Installation
 
-* `git clon git@github.com:weisssean/react-redux-skeleton-app.git`
+* `git clone git@github.com:weisssean/react-redux-skeleton-app.git`
 * cd react-redux-skeleton-app
 * npm install
 * npm start
