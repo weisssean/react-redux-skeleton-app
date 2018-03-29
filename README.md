@@ -14,8 +14,8 @@
 
 ## Installation
 
-* `git clon repoe`
-* cd repo
+* `git clon git@github.com:weisssean/react-redux-skeleton-app.git`
+* cd react-redux-skeleton-app
 * npm install
 * npm start
 * visit `http://localhost:8080/`
